@@ -1,0 +1,33 @@
+# Core app
+streamlit==1.37.1
+
+# Google Gemini SDK
+google-generativeai==0.7.2
+
+# LangChain core + community
+langchain==0.2.14
+langchain-community==0.2.12
+
+# Vector store (FAISS)
+faiss-cpu==1.8.0
+
+# Embeddings (Sentence Transformers + dependencies)
+sentence-transformers==3.0.1
+transformers==4.44.2
+torch>=2.5.0
+scikit-learn==1.5.1
+numpy==1.26.4
+
+# PDF generation
+reportlab==4.2.2
+
+# Text-to-Speech
+gTTS==2.5.1
+
+# Utilities
+tqdm==4.66.5
+requests==2.32.3
+rich==14.1.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
