@@ -1,6 +1,11 @@
 Title:
 📘 AI Article Suite – Intelligent Article Generation & Management
 
+WorkFlow
+https://chatgpt.com/s/m_68b317d98b5481919ed51303d751ba0d
+
+
+
 Content:
 
 Slide 1 – Introduction
